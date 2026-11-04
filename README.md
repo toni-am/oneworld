@@ -10,8 +10,7 @@ to create both static and interactive maps.
 
 |            |                 |
 |:----------:|:---------------:|
-!<img src="docs/build/html/_static/tut_shp4.png" alt="drawing" width="400"/>|!<img src="docs/build/html/_static/welcome.png" alt="drawing" width="400"/>
-<!--![](docs/build/html/_static/tut_shp4.png)|![](docs/build/html/_static/welcome.png) -->
+<img src="docs/build/html/_static/tut_shp4.png" alt="drawing" width="400"/>|<img src="docs/build/html/_static/welcome.png" alt="drawing" width="400"/>
 
 OneWorld accepts data inputs as sequences (lists or tuples) or 
 [pandas] dataframes, much in the same
